@@ -1,2 +1,7 @@
 ﻿  BattleshipGame.cpp
+c:\users\mike\source\repos\battleshipgame\battleshipgame\battleshipgame.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike\source\repos\battleshipgame\battleshipgame\battleshipgame.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike\source\repos\battleshipgame\battleshipgame\battleshipgame.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike\source\repos\battleshipgame\battleshipgame\battleshipgame.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\mike\source\repos\battleshipgame\battleshipgame\battleshipgame.cpp(134): warning C4018: '<': signed/unsigned mismatch
   BattleshipGame.vcxproj -> C:\Users\Mike\source\repos\BattleshipGame\Debug\BattleshipGame.exe
